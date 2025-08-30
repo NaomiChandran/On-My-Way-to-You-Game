@@ -1,8 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":3,"parentId":0,"scrollX":1404,"scrollY":624},
+{"id":1,"expanded":true,"name":"MAP001","order":3,"parentId":0,"scrollX":1404,"scrollY":768},
 {"id":2,"expanded":true,"name":"loadmap1","order":4,"parentId":1,"scrollX":1404,"scrollY":768},
 {"id":3,"expanded":true,"name":"Desert homes","order":1,"parentId":0,"scrollX":1404,"scrollY":768},
-{"id":4,"expanded":true,"name":"Desert Mountain","order":2,"parentId":3,"scrollX":1404,"scrollY":768},
-{"id":5,"expanded":false,"name":"event test Naomi","order":5,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":4,"expanded":true,"name":"Desert Mountain","order":2,"parentId":3,"scrollX":1404,"scrollY":768}
 ]
